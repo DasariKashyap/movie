@@ -1,1 +1,2 @@
 # movie
+#Data science and machine learning fuel movie recommendation systems. These systems analyze user behavior (ratings, watch history) or movie attributes (genre, actors) to suggest films a user might enjoy. Collaborative filtering recommends movies liked by similar users, while content-based filtering suggests movies similar to what the user liked before. This personalizes the movie experience, keeping users engaged and helping them discover new favorites.
